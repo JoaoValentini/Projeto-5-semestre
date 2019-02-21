@@ -1,0 +1,714 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-02-21T19:31:34.204-03:00
+  initializedAtString: 2019-02-21T19:29:00.320-03:00
+  log:
+  - commitID: fad08f5a1f0ad06ecbbdec28f94ddb4bd3063cb3
+    mergeA: 
+    mergeB: 
+    authorName: JoaoValentini
+    authorEmail: joaoavvs@gmail.com
+    commitEmail: joaoavvs@gmail.com
+    commitName: JoaoValentini
+    summary: Primeiro
+    description: "Primeiro\r\n\r\ninicio"
+    timeString: 2019-02-21T19:28:58.000-03:00
+    commitTimeString: 2019-02-21T19:28:58.000-03:00
+    changes:
+    - path: Assets\Beam Light.prefab
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Beam Light.prefab
+      projectPath: Assets\Beam Light.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Beam Light.prefab.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Beam Light.prefab.meta
+      projectPath: Assets\Beam Light.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DropParticleScript.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\DropParticleScript.cs
+      projectPath: Assets\DropParticleScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\DropParticleScript.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\DropParticleScript.cs.meta
+      projectPath: Assets\DropParticleScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Esfera.mat
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Esfera.mat
+      projectPath: Assets\Esfera.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Esfera.mat.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Esfera.mat.meta
+      projectPath: Assets\Esfera.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\FollowPlayer.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\FollowPlayer.cs
+      projectPath: Assets\FollowPlayer.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\FollowPlayer.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\FollowPlayer.cs.meta
+      projectPath: Assets\FollowPlayer.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Movimentacao.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Movimentacao.cs
+      projectPath: Assets\Movimentacao.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Movimentacao.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Movimentacao.cs.meta
+      projectPath: Assets\Movimentacao.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Material.mat
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\New Material.mat
+      projectPath: Assets\New Material.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\New Material.mat.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\New Material.mat.meta
+      projectPath: Assets\New Material.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\OrbitGenerator.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\OrbitGenerator.cs
+      projectPath: Assets\OrbitGenerator.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\OrbitGenerator.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\OrbitGenerator.cs.meta
+      projectPath: Assets\OrbitGenerator.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\ParticlePickUp.prefab
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\ParticlePickUp.prefab
+      projectPath: Assets\ParticlePickUp.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\ParticlePickUp.prefab.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\ParticlePickUp.prefab.meta
+      projectPath: Assets\ParticlePickUp.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\ParticlePickUpScript.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\ParticlePickUpScript.cs
+      projectPath: Assets\ParticlePickUpScript.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\ParticlePickUpScript.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\ParticlePickUpScript.cs.meta
+      projectPath: Assets\ParticlePickUpScript.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement.meta
+      projectPath: Assets\Plugins\Pixelplacement.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Images.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Images.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Images.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Images\iTweenNews.png
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Images\iTweenNews.png
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Images\iTweenNews.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Images\iTweenNews.png.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Images\iTweenNews.png.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Images\iTweenNews.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\ReadMe!.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\ReadMe!.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\ReadMe!.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt
+      projectPath: Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample\MoveSample.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample\MoveSample.cs
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample\MoveSample.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample\MoveSample.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample\MoveSample.cs.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample\MoveSample.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample\RotateSample.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample\RotateSample.cs
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample\RotateSample.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample\RotateSample.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample\RotateSample.cs.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample\RotateSample.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample\Sample.unity
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample\Sample.unity
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample\Sample.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample\Sample.unity.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample\Sample.unity.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample\Sample.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample\SampleInfo.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample\SampleInfo.cs
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample\SampleInfo.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\Sample\SampleInfo.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\Sample\SampleInfo.cs.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\Sample\SampleInfo.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\iTween.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\iTween.cs
+      projectPath: Assets\Plugins\Pixelplacement\iTween\iTween.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\Pixelplacement\iTween\iTween.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Plugins\Pixelplacement\iTween\iTween.cs.meta
+      projectPath: Assets\Plugins\Pixelplacement\iTween\iTween.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Scenes\SampleScene.meta
+      projectPath: Assets\Scenes\SampleScene.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\SetParticleLight.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\SetParticleLight.cs
+      projectPath: Assets\SetParticleLight.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\SetParticleLight.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\SetParticleLight.cs.meta
+      projectPath: Assets\SetParticleLight.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\light particle.prefab
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\light particle.prefab
+      projectPath: Assets\light particle.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\light particle.prefab.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\light particle.prefab.meta
+      projectPath: Assets\light particle.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\particleFollowPath.cs
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\particleFollowPath.cs
+      projectPath: Assets\particleFollowPath.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\particleFollowPath.cs.meta
+      fullPath: C:\Users\joaoa\Documents\Games Projects\Lights\Assets\particleFollowPath.cs.meta
+      projectPath: Assets\particleFollowPath.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
