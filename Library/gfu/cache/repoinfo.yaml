@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-02-21T19:27:41.893-03:00
-  initializedAtString: 2019-02-21T19:15:50.432-03:00
+  lastUpdatedAtString: 2019-03-19T20:59:35.671-03:00
+  initializedAtString: 2019-03-19T20:59:35.671-03:00
   currentGitRemote:
     name: origin
-    url: https://github.com/JoaoValentini/5-Semestre
+    url: https://github.com/JoaoValentini/Projeto-5-semestre.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/JoaoValentini/Projeto-5-semestre.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/JoaoValentini/5-Semestre
+    url: https://github.com/JoaoValentini/Projeto-5-semestre.git
   currentHead: 
